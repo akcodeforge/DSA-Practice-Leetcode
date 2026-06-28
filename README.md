@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akcodeforge/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/akcodeforge/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/akcodeforge/DSA-Practice/tree/master/1019-next-greater-node-in-linked-list) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/akcodeforge/DSA-Practice/tree/master/0257-binary-tree-paths) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/akcodeforge/DSA-Practice/tree/master/0257-binary-tree-paths) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/akcodeforge/DSA-Practice/tree/master/0257-binary-tree-paths) |
