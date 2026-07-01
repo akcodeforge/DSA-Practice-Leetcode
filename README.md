@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akcodeforge/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Queue
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/akcodeforge/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akcodeforge/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -204,8 +207,10 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Enumeration
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akcodeforge/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 <!---LeetCode Topics End-->
