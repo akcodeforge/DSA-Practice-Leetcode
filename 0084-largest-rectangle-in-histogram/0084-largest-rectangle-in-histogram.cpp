@@ -40,10 +40,10 @@ public:
             //// push back
             pt.push(i);
         }
-        int mx = INT_MIN;
+        int mxArea = INT_MIN;
         for (int i = 0; i < n; i++) {
-            mx = max(mx, (heights[i] * (nse[i] - pse[i] - 1)));
+            mxArea = max(mxArea, (heights[i] * (nse[i] - pse[i] - 1)));
         }
-        return mx;
+        return mxArea;
     }
 };
