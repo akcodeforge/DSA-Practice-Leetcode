@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0111-minimum-depth-of-binary-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/akcodeforge/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/akcodeforge/DSA-Practice/tree/master/0257-binary-tree-paths) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0111-minimum-depth-of-binary-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/akcodeforge/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/akcodeforge/DSA-Practice/tree/master/0257-binary-tree-paths) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0111-minimum-depth-of-binary-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/akcodeforge/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/akcodeforge/DSA-Practice/tree/master/0257-binary-tree-paths) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/akcodeforge/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0226-invert-binary-tree) |
 ## Backtracking
 |  |
