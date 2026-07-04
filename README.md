@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/akcodeforge/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0239-sliding-window-maximum](https://github.com/akcodeforge/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/akcodeforge/DSA-Practice/tree/master/0622-design-circular-queue) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/akcodeforge/DSA-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [1189-maximum-number-of-balloons](https://github.com/akcodeforge/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akcodeforge/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
