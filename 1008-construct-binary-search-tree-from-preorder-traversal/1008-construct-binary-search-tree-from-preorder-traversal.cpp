@@ -1,24 +1,33 @@
 class Solution {
 public:
-TreeNode* build(vector<int>& pre,int prelo,int prehi, vector<int>& in,int inlo,int inhi){
-    if(prelo>prehi) return NULL;
-    TreeNode* root= new TreeNode(pre[prelo]);
-    if(prelo==prehi) return root;
-    int i=inlo;
-    while(i<=inhi){
-        if(in[i]==pre[prelo]) break;
-        i++;
+    TreeNode* insertIntoBST(TreeNode* root, int val) {
+        if(root==NULL) return new TreeNode(val);
+        else if(root->val>val){   ///go left
+            if(root->left==NULL){
+                TreeNode* temp=new TreeNode(val);
+                root->left=temp;
+                return root;
+            }
+            else insertIntoBST(root->left,val);
+        }
+        else{   /// go right
+            if(root->right==NULL){
+                TreeNode* temp=new TreeNode(val);
+                root->right=temp;
+                return root;
+            }
+            else insertIntoBST(root->right,val);
+        }
+        return root;
     }
-    int leftcount=i-inlo;
-    int rightcount=inhi-i;
-    root->left=build(pre,prelo+1,prelo+leftcount,in,inlo,i-1);
-    root->right=build(pre,prelo+leftcount+1,prehi,in,i+1,inhi);
-    return root;
-}
+
     TreeNode* bstFromPreorder(vector<int>& pre) {
         int n=pre.size();
-        vector<int>in=pre;
-        sort(in.begin(),in.end());
-        return build(pre,0,n-1,in,0,n-1);
+        TreeNode* root=new TreeNode(pre[0]);
+        for(int i=1;i<n;i++){
+        TreeNode* temp=new TreeNode(pre[i]);
+            insertIntoBST(root,temp->val);
+        }
+        return root;
     }
 };
