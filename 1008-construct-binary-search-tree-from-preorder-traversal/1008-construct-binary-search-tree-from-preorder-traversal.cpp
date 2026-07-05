@@ -15,13 +15,10 @@ TreeNode* build(vector<int>& pre,int prelo,int prehi, vector<int>& in,int inlo,i
     root->right=build(pre,prelo+leftcount+1,prehi,in,i+1,inhi);
     return root;
 }
-    TreeNode* bstFromPreorder(vector<int>& preorder) {
-        int n=preorder.size();
-        vector<int>in;
-        vector<int>pre;
-        pre=preorder;
-        sort(preorder.begin(),preorder.end());
-        in=preorder;
+    TreeNode* bstFromPreorder(vector<int>& pre) {
+        int n=pre.size();
+        vector<int>in=pre;
+        sort(in.begin(),in.end());
         return build(pre,0,n-1,in,0,n-1);
     }
 };
