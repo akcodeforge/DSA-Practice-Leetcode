@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/akcodeforge/DSA-Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0622-design-circular-queue](https://github.com/akcodeforge/DSA-Practice/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/akcodeforge/DSA-Practice/tree/master/0641-design-circular-deque) |
+| [0725-split-linked-list-in-parts](https://github.com/akcodeforge/DSA-Practice/tree/master/0725-split-linked-list-in-parts) |
 | [1019-next-greater-node-in-linked-list](https://github.com/akcodeforge/DSA-Practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/akcodeforge/DSA-Practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/akcodeforge/DSA-Practice/tree/master/2074-reverse-nodes-in-even-length-groups) |
