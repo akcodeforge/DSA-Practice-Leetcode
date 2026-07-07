@@ -5,15 +5,15 @@ public:
         TreeNode* curr = root;
         while (curr != NULL) {
             if (curr->left != NULL) {
-                TreeNode* pred = curr->left;
+                TreeNode* pred = curr->left;   // find pred
                 while (pred->right != NULL && pred->right != curr) {
                     pred = pred->right;
                 }
-                if (pred->right == NULL) {
+                if (pred->right == NULL) {  // link
                     pred->right = curr;
                     curr = curr->left;
                 } 
-                else {
+                else {  //pred->right == curr  : unlink
                     pred->right = NULL;
                     ans.push_back(curr->val);
                     curr = curr->right;
