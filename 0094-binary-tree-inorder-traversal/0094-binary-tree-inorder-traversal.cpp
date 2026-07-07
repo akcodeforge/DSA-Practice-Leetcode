@@ -1,13 +1,29 @@
 class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
-     vector<int>ans;
-     if(root==NULL) return ans;   
-     vector<int>left=inorderTraversal(root->left);
-     vector<int>right=inorderTraversal(root->right);
-     ans.insert(ans.end(),left.begin(),left.end());
-     ans.push_back(root->val);
-     ans.insert(ans.end(),right.begin(),right.end());
-     return ans;
+        vector<int> ans;
+        TreeNode* curr = root;
+        while (curr != NULL) {
+            if (curr->left != NULL) {
+                TreeNode* pred = curr->left;
+                while (pred->right != NULL && pred->right != curr) {
+                    pred = pred->right;
+                }
+                if (pred->right == NULL) {
+                    pred->right = curr;
+                    curr = curr->left;
+                } 
+                else {
+                    pred->right = NULL;
+                    ans.push_back(curr->val);
+                    curr = curr->right;
+                }
+            } 
+            else {
+                ans.push_back(curr->val);
+                curr = curr->right;
+            }
+        }
+        return ans;
     }
 };
