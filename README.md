@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/akcodeforge/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akcodeforge/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/akcodeforge/DSA-Practice/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/akcodeforge/DSA-Practice/tree/master/0155-min-stack) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/akcodeforge/DSA-Practice/tree/master/0143-reorder-list) |
 | [0556-next-greater-element-iii](https://github.com/akcodeforge/DSA-Practice/tree/master/0556-next-greater-element-iii) |
 ## String
 |  |
@@ -111,9 +113,9 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
-| [0083-remove-duplicates-from-sorted-list](https://github.com/akcodeforge/DSA-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akcodeforge/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/akcodeforge/DSA-Practice/tree/master/0138-copy-list-with-random-pointer) |
+| [0143-reorder-list](https://github.com/akcodeforge/DSA-Practice/tree/master/0143-reorder-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/akcodeforge/DSA-Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0622-design-circular-queue](https://github.com/akcodeforge/DSA-Practice/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/akcodeforge/DSA-Practice/tree/master/0641-design-circular-deque) |
@@ -307,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0701-insert-into-a-binary-search-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/akcodeforge/DSA-Practice/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
