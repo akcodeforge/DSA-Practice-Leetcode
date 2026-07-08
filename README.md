@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/akcodeforge/DSA-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/akcodeforge/DSA-Practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akcodeforge/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2126-destroying-asteroids](https://github.com/akcodeforge/DSA-Practice/tree/master/2126-destroying-asteroids) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akcodeforge/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -146,11 +147,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/akcodeforge/DSA-Practice/tree/master/0649-dota2-senate) |
+| [2126-destroying-asteroids](https://github.com/akcodeforge/DSA-Practice/tree/master/2126-destroying-asteroids) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/akcodeforge/DSA-Practice/tree/master/0148-sort-list) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/akcodeforge/DSA-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
+| [2126-destroying-asteroids](https://github.com/akcodeforge/DSA-Practice/tree/master/2126-destroying-asteroids) |
 ## Tree
 |  |
 | ------- |
