@@ -13,10 +13,10 @@ int reverse(int n){
         int n=nums.size();
         unordered_set<int>s;
         for(int i=0;i<n;i++){
-            nums.push_back(reverse(nums[i]));
-        }
-         for(int i=0;i<2*n;i++){
             s.insert(nums[i]);
+        }
+        for(int i=0;i<n;i++){
+            s.insert(reverse(nums[i]));
         }
         return s.size();
     }
