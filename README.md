@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0950-reveal-cards-in-increasing-order](https://github.com/akcodeforge/DSA-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/akcodeforge/DSA-Practice/tree/master/1019-next-greater-node-in-linked-list) |
+| [1207-unique-number-of-occurrences](https://github.com/akcodeforge/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/akcodeforge/DSA-Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/akcodeforge/DSA-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/akcodeforge/DSA-Practice/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0138-copy-list-with-random-pointer](https://github.com/akcodeforge/DSA-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/akcodeforge/DSA-Practice/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/akcodeforge/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
+| [1207-unique-number-of-occurrences](https://github.com/akcodeforge/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akcodeforge/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akcodeforge/DSA-Practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/akcodeforge/DSA-Practice/tree/master/2744-find-maximum-number-of-string-pairs) |
