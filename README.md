@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/akcodeforge/DSA-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/akcodeforge/DSA-Practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akcodeforge/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2094-finding-3-digit-even-numbers](https://github.com/akcodeforge/DSA-Practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [2126-destroying-asteroids](https://github.com/akcodeforge/DSA-Practice/tree/master/2126-destroying-asteroids) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akcodeforge/DSA-Practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/akcodeforge/DSA-Practice/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0148-sort-list](https://github.com/akcodeforge/DSA-Practice/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/akcodeforge/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/akcodeforge/DSA-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
+| [2094-finding-3-digit-even-numbers](https://github.com/akcodeforge/DSA-Practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [2126-destroying-asteroids](https://github.com/akcodeforge/DSA-Practice/tree/master/2126-destroying-asteroids) |
 ## Tree
 |  |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1189-maximum-number-of-balloons](https://github.com/akcodeforge/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/akcodeforge/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akcodeforge/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2094-finding-3-digit-even-numbers](https://github.com/akcodeforge/DSA-Practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akcodeforge/DSA-Practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/akcodeforge/DSA-Practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akcodeforge/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/akcodeforge/DSA-Practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akcodeforge/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Doubly-Linked List
@@ -356,4 +360,5 @@ A collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/akcodeforge/DSA-Practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/akcodeforge/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/akcodeforge/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+| [2094-finding-3-digit-even-numbers](https://github.com/akcodeforge/DSA-Practice/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
