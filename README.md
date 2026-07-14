@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/akcodeforge/DSA-Practice/tree/master/1291-sequential-digits) |
 | [2094-finding-3-digit-even-numbers](https://github.com/akcodeforge/DSA-Practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akcodeforge/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
