@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akcodeforge/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akcodeforge/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/akcodeforge/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/akcodeforge/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/akcodeforge/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akcodeforge/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akcodeforge/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/akcodeforge/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/akcodeforge/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0148-sort-list](https://github.com/akcodeforge/DSA-Practice/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akcodeforge/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/akcodeforge/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/akcodeforge/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/akcodeforge/DSA-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1122-relative-sort-array](https://github.com/akcodeforge/DSA-Practice/tree/master/1122-relative-sort-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/akcodeforge/DSA-Practice/tree/master/1657-determine-if-two-strings-are-close) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/akcodeforge/DSA-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/akcodeforge/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/akcodeforge/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/akcodeforge/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akcodeforge/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1122-relative-sort-array](https://github.com/akcodeforge/DSA-Practice/tree/master/1122-relative-sort-array) |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/akcodeforge/DSA-Practice/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akcodeforge/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/akcodeforge/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -349,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/akcodeforge/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/akcodeforge/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/akcodeforge/DSA-Practice/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/akcodeforge/DSA-Practice/tree/master/1657-determine-if-two-strings-are-close) |
@@ -421,4 +427,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akcodeforge/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/akcodeforge/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/akcodeforge/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
