@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akcodeforge/DSA-Practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/akcodeforge/DSA-Practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akcodeforge/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/akcodeforge/DSA-Practice/tree/master/3909-compare-sums-of-bitonic-parts) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akcodeforge/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/akcodeforge/DSA-Practice/tree/master/2063-vowels-of-all-substrings) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akcodeforge/DSA-Practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akcodeforge/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3908-valid-digit-number](https://github.com/akcodeforge/DSA-Practice/tree/master/3908-valid-digit-number) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/akcodeforge/DSA-Practice/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Binary Search Tree
 |  |
