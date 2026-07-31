@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akcodeforge/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0641-design-circular-deque](https://github.com/akcodeforge/DSA-Practice/tree/master/0641-design-circular-deque) |
 | [0658-find-k-closest-elements](https://github.com/akcodeforge/DSA-Practice/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/akcodeforge/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/akcodeforge/DSA-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/akcodeforge/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/akcodeforge/DSA-Practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/akcodeforge/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0556-next-greater-element-iii](https://github.com/akcodeforge/DSA-Practice/tree/master/0556-next-greater-element-iii) |
 | [0658-find-k-closest-elements](https://github.com/akcodeforge/DSA-Practice/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/akcodeforge/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/akcodeforge/DSA-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0605-can-place-flowers](https://github.com/akcodeforge/DSA-Practice/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akcodeforge/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/akcodeforge/DSA-Practice/tree/master/0649-dota2-senate) |
+| [0881-boats-to-save-people](https://github.com/akcodeforge/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/akcodeforge/DSA-Practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1710-maximum-units-on-a-truck](https://github.com/akcodeforge/DSA-Practice/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/akcodeforge/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/akcodeforge/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akcodeforge/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/akcodeforge/DSA-Practice/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/akcodeforge/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/akcodeforge/DSA-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/akcodeforge/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/akcodeforge/DSA-Practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
