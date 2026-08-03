@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1122-relative-sort-array](https://github.com/akcodeforge/DSA-Practice/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/akcodeforge/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
+| [1406-stone-game-iii](https://github.com/akcodeforge/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akcodeforge/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/akcodeforge/DSA-Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/akcodeforge/DSA-Practice/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/akcodeforge/DSA-Practice/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/akcodeforge/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/akcodeforge/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/akcodeforge/DSA-Practice/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akcodeforge/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/akcodeforge/DSA-Practice/tree/master/2063-vowels-of-all-substrings) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/akcodeforge/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/akcodeforge/DSA-Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/akcodeforge/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [2063-vowels-of-all-substrings](https://github.com/akcodeforge/DSA-Practice/tree/master/2063-vowels-of-all-substrings) |
 ## Combinatorics
 |  |
@@ -528,12 +531,15 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/akcodeforge/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/akcodeforge/DSA-Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/akcodeforge/DSA-Practice/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/akcodeforge/DSA-Practice/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/akcodeforge/DSA-Practice/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
