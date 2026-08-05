@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0669-trim-a-binary-search-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0669-trim-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akcodeforge/DSA-Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3310-remove-methods-from-project](https://github.com/akcodeforge/DSA-Practice/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/akcodeforge/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akcodeforge/DSA-Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3310-remove-methods-from-project](https://github.com/akcodeforge/DSA-Practice/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
 |  |
 | ------- |
@@ -542,4 +544,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1140-stone-game-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/akcodeforge/DSA-Practice/tree/master/1406-stone-game-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/akcodeforge/DSA-Practice/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
