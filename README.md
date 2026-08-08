@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akcodeforge/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0641-design-circular-deque](https://github.com/akcodeforge/DSA-Practice/tree/master/0641-design-circular-deque) |
 | [0658-find-k-closest-elements](https://github.com/akcodeforge/DSA-Practice/tree/master/0658-find-k-closest-elements) |
+| [0781-rabbits-in-forest](https://github.com/akcodeforge/DSA-Practice/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/akcodeforge/DSA-Practice/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/akcodeforge/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/akcodeforge/DSA-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/akcodeforge/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0556-next-greater-element-iii](https://github.com/akcodeforge/DSA-Practice/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akcodeforge/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0781-rabbits-in-forest](https://github.com/akcodeforge/DSA-Practice/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/akcodeforge/DSA-Practice/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/akcodeforge/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/1140-stone-game-ii) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0605-can-place-flowers](https://github.com/akcodeforge/DSA-Practice/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akcodeforge/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/akcodeforge/DSA-Practice/tree/master/0649-dota2-senate) |
+| [0781-rabbits-in-forest](https://github.com/akcodeforge/DSA-Practice/tree/master/0781-rabbits-in-forest) |
 | [0881-boats-to-save-people](https://github.com/akcodeforge/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/akcodeforge/DSA-Practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1710-maximum-units-on-a-truck](https://github.com/akcodeforge/DSA-Practice/tree/master/1710-maximum-units-on-a-truck) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0525-contiguous-array](https://github.com/akcodeforge/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akcodeforge/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akcodeforge/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0781-rabbits-in-forest](https://github.com/akcodeforge/DSA-Practice/tree/master/0781-rabbits-in-forest) |
 | [1122-relative-sort-array](https://github.com/akcodeforge/DSA-Practice/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/akcodeforge/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/akcodeforge/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
