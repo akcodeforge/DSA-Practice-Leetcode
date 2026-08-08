@@ -6,28 +6,25 @@ public:
         for(int i=0;i<n;i++){
             mp[answers[i]]++;
         }
-        priority_queue<pair<int,int>>pq;
-        for(auto ele:mp){
-            pq.push({ele.first,ele.second});
-        }
         int ans=0;
-        while(pq.size()>0){
-            int a=pq.top().first;
-            int b=pq.top().second;
+        for(auto ele:mp){
+            int a=ele.first;
+            int b=ele.second;
             if(a==0){
                 ans+=b;
-                pq.pop();
             }
-            else if(a+1>=b){
-                ans+=(a+1);
-                pq.pop();
-            }
+            // else if(a+1>=b){
+            //     ans+=(a+1);
+            // }
             else{
-                pq.pop();
-                ans+=(a+1);
-                int x=a+1;
-                int y=b;
-                pq.push({a,y-x});
+                int rem=b/(a+1);
+                int per=b%(a+1);
+                if(per==0){
+                    ans+=(rem*(a+1));
+                }
+                else{
+                    ans+=((rem*(a+1))+a+1);
+                }
             }
         }
         return ans;
