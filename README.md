@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akcodeforge/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/akcodeforge/DSA-Practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [2126-destroying-asteroids](https://github.com/akcodeforge/DSA-Practice/tree/master/2126-destroying-asteroids) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/akcodeforge/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/akcodeforge/DSA-Practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akcodeforge/DSA-Practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/akcodeforge/DSA-Practice/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akcodeforge/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2063-vowels-of-all-substrings](https://github.com/akcodeforge/DSA-Practice/tree/master/2063-vowels-of-all-substrings) |
 | [2182-construct-string-with-repeat-limit](https://github.com/akcodeforge/DSA-Practice/tree/master/2182-construct-string-with-repeat-limit) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/akcodeforge/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/akcodeforge/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/akcodeforge/DSA-Practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akcodeforge/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/akcodeforge/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -584,4 +587,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/akcodeforge/DSA-Practice/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/akcodeforge/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
