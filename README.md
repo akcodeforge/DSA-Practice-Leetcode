@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2126-destroying-asteroids](https://github.com/akcodeforge/DSA-Practice/tree/master/2126-destroying-asteroids) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/akcodeforge/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/akcodeforge/DSA-Practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/akcodeforge/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akcodeforge/DSA-Practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/akcodeforge/DSA-Practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akcodeforge/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-last-stone-weight](https://github.com/akcodeforge/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akcodeforge/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2182-construct-string-with-repeat-limit](https://github.com/akcodeforge/DSA-Practice/tree/master/2182-construct-string-with-repeat-limit) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/akcodeforge/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/akcodeforge/DSA-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/akcodeforge/DSA-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/akcodeforge/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/akcodeforge/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/akcodeforge/DSA-Practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Linked List
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2126-destroying-asteroids](https://github.com/akcodeforge/DSA-Practice/tree/master/2126-destroying-asteroids) |
 | [2182-construct-string-with-repeat-limit](https://github.com/akcodeforge/DSA-Practice/tree/master/2182-construct-string-with-repeat-limit) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/akcodeforge/DSA-Practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/akcodeforge/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/akcodeforge/DSA-Practice/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akcodeforge/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2094-finding-3-digit-even-numbers](https://github.com/akcodeforge/DSA-Practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [2126-destroying-asteroids](https://github.com/akcodeforge/DSA-Practice/tree/master/2126-destroying-asteroids) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/akcodeforge/DSA-Practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/akcodeforge/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akcodeforge/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/akcodeforge/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
@@ -424,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1814-count-nice-pairs-in-an-array](https://github.com/akcodeforge/DSA-Practice/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/akcodeforge/DSA-Practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [2182-construct-string-with-repeat-limit](https://github.com/akcodeforge/DSA-Practice/tree/master/2182-construct-string-with-repeat-limit) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/akcodeforge/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akcodeforge/DSA-Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akcodeforge/DSA-Practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/akcodeforge/DSA-Practice/tree/master/2744-find-maximum-number-of-string-pairs) |
