@@ -17,8 +17,6 @@ public:
         if((leftQ+rightQ)%2!=0){
             return true;
         }
-        int diff=lsum-rsum;
-        int diffQ=9*(leftQ-rightQ)/2;
-        return diff+diffQ != 0;
+        return 2*lsum+9*leftQ!=2*rsum+9*rightQ;
     }
 };
