@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/akcodeforge/DSA-Practice/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Simulation
 |  |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2600-k-items-with-the-maximum-sum](https://github.com/akcodeforge/DSA-Practice/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akcodeforge/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akcodeforge/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akcodeforge/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2182-construct-string-with-repeat-limit](https://github.com/akcodeforge/DSA-Practice/tree/master/2182-construct-string-with-repeat-limit) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akcodeforge/DSA-Practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/akcodeforge/DSA-Practice/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Prefix Sum
@@ -506,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2094-finding-3-digit-even-numbers](https://github.com/akcodeforge/DSA-Practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akcodeforge/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Doubly-Linked List
 |  |
