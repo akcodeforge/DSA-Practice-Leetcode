@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0881-boats-to-save-people](https://github.com/akcodeforge/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/akcodeforge/DSA-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akcodeforge/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/akcodeforge/DSA-Practice/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Simulation
 |  |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akcodeforge/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Doubly-Linked List
 |  |
