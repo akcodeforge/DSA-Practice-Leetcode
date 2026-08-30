@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akcodeforge/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0143-reorder-list](https://github.com/akcodeforge/DSA-Practice/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/akcodeforge/DSA-Practice/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/akcodeforge/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/akcodeforge/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0556-next-greater-element-iii](https://github.com/akcodeforge/DSA-Practice/tree/master/0556-next-greater-element-iii) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0008-string-to-integer-atoi](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/akcodeforge/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/akcodeforge/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0151-reverse-words-in-a-string](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/akcodeforge/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/akcodeforge/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0556-next-greater-element-iii](https://github.com/akcodeforge/DSA-Practice/tree/master/0556-next-greater-element-iii) |
