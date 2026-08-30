@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1944-number-of-visible-people-in-a-queue](https://github.com/akcodeforge/DSA-Practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akcodeforge/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akcodeforge/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/akcodeforge/DSA-Practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [2126-destroying-asteroids](https://github.com/akcodeforge/DSA-Practice/tree/master/2126-destroying-asteroids) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/akcodeforge/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1710-maximum-units-on-a-truck](https://github.com/akcodeforge/DSA-Practice/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/akcodeforge/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/akcodeforge/DSA-Practice/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/akcodeforge/DSA-Practice/tree/master/2126-destroying-asteroids) |
 | [2182-construct-string-with-repeat-limit](https://github.com/akcodeforge/DSA-Practice/tree/master/2182-construct-string-with-repeat-limit) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/akcodeforge/DSA-Practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
