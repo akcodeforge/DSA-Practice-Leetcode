@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0781-rabbits-in-forest](https://github.com/akcodeforge/DSA-Practice/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/akcodeforge/DSA-Practice/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/akcodeforge/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
+| [1137-n-th-tribonacci-number](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/akcodeforge/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/akcodeforge/DSA-Practice/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/akcodeforge/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/akcodeforge/DSA-Practice/tree/master/1510-stone-game-iv) |
@@ -677,4 +679,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
