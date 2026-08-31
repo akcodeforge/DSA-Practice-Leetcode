@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/akcodeforge/DSA-Practice/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/akcodeforge/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/akcodeforge/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/akcodeforge/DSA-Practice/tree/master/1019-next-greater-node-in-linked-list) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/akcodeforge/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/akcodeforge/DSA-Practice/tree/master/0257-binary-tree-paths) |
+| [0394-decode-string](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/akcodeforge/DSA-Practice/tree/master/0556-next-greater-element-iii) |
 | [0649-dota2-senate](https://github.com/akcodeforge/DSA-Practice/tree/master/0649-dota2-senate) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/akcodeforge/DSA-Practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/akcodeforge/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/akcodeforge/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/akcodeforge/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/akcodeforge/DSA-Practice/tree/master/2094-finding-3-digit-even-numbers) |
