@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/akcodeforge/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/akcodeforge/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/akcodeforge/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/akcodeforge/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/akcodeforge/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/akcodeforge/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/akcodeforge/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/akcodeforge/DSA-Practice/tree/master/0556-next-greater-element-iii) |
