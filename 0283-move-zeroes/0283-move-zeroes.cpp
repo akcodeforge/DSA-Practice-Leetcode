@@ -5,16 +5,11 @@ public:
         int i=0;
         int j=0;
         while(j<n){
-            if(nums[j]==0 && nums[i]==0) j++;
-            else if(nums[j]!=0 && nums[i]==0){
+            if(nums[j]!=0){
                 swap(nums[i],nums[j]);
                 i++;
-                j++;
             }
-            else {
                 j++;
-                i++;
-            }
         }
         return;
     }
