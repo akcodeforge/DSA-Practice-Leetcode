@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/akcodeforge/DSA-Practice/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Queue
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3536-maximum-product-of-two-digits](https://github.com/akcodeforge/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akcodeforge/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3908-valid-digit-number](https://github.com/akcodeforge/DSA-Practice/tree/master/3908-valid-digit-number) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/akcodeforge/DSA-Practice/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Two Pointers
