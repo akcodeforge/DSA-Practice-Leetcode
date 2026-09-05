@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0881-boats-to-save-people](https://github.com/akcodeforge/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/akcodeforge/DSA-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/akcodeforge/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
+| [1004-max-consecutive-ones-iii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/akcodeforge/DSA-Practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/akcodeforge/DSA-Practice/tree/master/1019-next-greater-node-in-linked-list) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/akcodeforge/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akcodeforge/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/akcodeforge/DSA-Practice/tree/master/0658-find-k-closest-elements) |
+| [1004-max-consecutive-ones-iii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akcodeforge/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akcodeforge/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/akcodeforge/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akcodeforge/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/akcodeforge/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0700-search-in-a-binary-search-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/akcodeforge/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1004-max-consecutive-ones-iii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Recursion
