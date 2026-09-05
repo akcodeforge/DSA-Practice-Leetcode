@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/akcodeforge/DSA-Practice/tree/master/0486-predict-the-winner) |
