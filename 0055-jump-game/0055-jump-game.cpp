@@ -12,7 +12,7 @@ public:
         return dp[i]=false;
     }
     bool canJump(vector<int>& nums) {
-        vector<int>dp(nums.size()+1,-1);
+        vector<int>dp(nums.size(),-1);
         return solve(nums,0,dp);
     }
 };
