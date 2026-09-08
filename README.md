@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/akcodeforge/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akcodeforge/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0045-jump-game-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/akcodeforge/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/akcodeforge/DSA-Practice/tree/master/0056-merge-intervals) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/akcodeforge/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0063-unique-paths-ii) |
