@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akcodeforge/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0641-design-circular-deque](https://github.com/akcodeforge/DSA-Practice/tree/master/0641-design-circular-deque) |
 | [0658-find-k-closest-elements](https://github.com/akcodeforge/DSA-Practice/tree/master/0658-find-k-closest-elements) |
+| [0735-asteroid-collision](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0781-rabbits-in-forest](https://github.com/akcodeforge/DSA-Practice/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/akcodeforge/DSA-Practice/tree/master/0877-stone-game) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/akcodeforge/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0735-asteroid-collision) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/akcodeforge/DSA-Practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/akcodeforge/DSA-Practice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0735-asteroid-collision) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/akcodeforge/DSA-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/akcodeforge/DSA-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/akcodeforge/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
