@@ -10,16 +10,16 @@ public:
             else
                 d.push(i);
         }
-        while(r.size()>0 && d.size()>0){
-            int ri=r.front();
-            int di=d.front();
+        while (r.size() > 0 && d.size() > 0) {
+            int ri = r.front();
+            int di = d.front();
             r.pop();
             d.pop();
-            if(ri<di){
-                r.push(ri+n);
-            }
-            else d.push(di+n);
+            if (ri < di) {
+                r.push(ri + n);
+            } else
+                d.push(di + n);
         }
-        return (r.size()>0)? "Radiant":"Dire";
+        return (r.size() > 0) ? "Radiant" : "Dire";
     }
 };
