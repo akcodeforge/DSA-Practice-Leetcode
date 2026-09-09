@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/akcodeforge/DSA-Practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/akcodeforge/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akcodeforge/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0045-jump-game-ii) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/akcodeforge/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akcodeforge/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/akcodeforge/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/akcodeforge/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/akcodeforge/DSA-Practice/tree/master/0056-merge-intervals) |
