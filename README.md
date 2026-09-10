@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akcodeforge/DSA-Practice/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/akcodeforge/DSA-Practice/tree/master/0016-3sum-closest) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/akcodeforge/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
