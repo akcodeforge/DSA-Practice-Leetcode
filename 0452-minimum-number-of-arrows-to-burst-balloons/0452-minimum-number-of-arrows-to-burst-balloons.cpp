@@ -8,8 +8,6 @@ public:
         int lastIntervalTime = points[0][1];
         for (int i = 1; i < n; i++) {
             if (points[i][0] <= lastIntervalTime) {
-                // ans++;
-                // lastIntervalTime = points[i][1];
                 continue;
             } else {
                 lastIntervalTime = points[i][1];
