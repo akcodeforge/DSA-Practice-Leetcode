@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0100-same-tree) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0100-same-tree) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/akcodeforge/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -621,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0198-house-robber) |
@@ -660,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/akcodeforge/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0095-unique-binary-search-trees-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
