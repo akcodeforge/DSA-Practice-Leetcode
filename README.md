@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0223-rectangle-area](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0223-rectangle-area) |
 | [0486-predict-the-winner](https://github.com/akcodeforge/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/akcodeforge/DSA-Practice/tree/master/0556-next-greater-element-iii) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/akcodeforge/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
