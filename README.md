@@ -808,4 +808,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
