@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2744-find-maximum-number-of-string-pairs](https://github.com/akcodeforge/DSA-Practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akcodeforge/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akcodeforge/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2063-vowels-of-all-substrings](https://github.com/akcodeforge/DSA-Practice/tree/master/2063-vowels-of-all-substrings) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akcodeforge/DSA-Practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/akcodeforge/DSA-Practice/tree/master/2600-k-items-with-the-maximum-sum) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0223-rectangle-area](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/akcodeforge/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Matrix
 |  |
 | ------- |
