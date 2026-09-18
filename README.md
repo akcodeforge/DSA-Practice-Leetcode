@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/akcodeforge/DSA-Practice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akcodeforge/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/akcodeforge/DSA-Practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/akcodeforge/DSA-Practice/tree/master/1927-sum-game) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0881-boats-to-save-people](https://github.com/akcodeforge/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/akcodeforge/DSA-Practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1710-maximum-units-on-a-truck](https://github.com/akcodeforge/DSA-Practice/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/akcodeforge/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/akcodeforge/DSA-Practice/tree/master/1927-sum-game) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/akcodeforge/DSA-Practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1122-relative-sort-array](https://github.com/akcodeforge/DSA-Practice/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akcodeforge/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/akcodeforge/DSA-Practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/akcodeforge/DSA-Practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/akcodeforge/DSA-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akcodeforge/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/akcodeforge/DSA-Practice/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/akcodeforge/DSA-Practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/akcodeforge/DSA-Practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/akcodeforge/DSA-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
