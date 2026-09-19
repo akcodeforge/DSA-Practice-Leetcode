@@ -14,15 +14,14 @@ public:
             /// case 1: if have zero chile
             if (root->left == NULL && root->right == NULL) {
                 return NULL;
-            } 
+            }
             if (root->left == NULL || root->right == NULL) {
                 if (root->left != NULL) {
                     return root->left;
-                }
-                else{
+                } else {
                     return root->right;
                 }
-            } 
+            }
             if (root->left != NULL && root->right != NULL) {
                 /// replae the root with its succ/pred
                 ///  again a
@@ -31,11 +30,9 @@ public:
                 root->right = deleteNode(root->right, suc->val);
                 return root;
             }
-        } 
-        else if (root->val > key) { /// go left for research
+        } else if (root->val > key) { /// go left for research
             root->left = deleteNode(root->left, key);
-        } 
-        else { /// go right beacuse root->val<key
+        } else { /// go right beacuse root->val<key
             root->right = deleteNode(root->right, key);
         }
         return root;
