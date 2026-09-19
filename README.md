@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akcodeforge/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/akcodeforge/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/akcodeforge/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
