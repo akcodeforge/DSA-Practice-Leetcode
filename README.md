@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/akcodeforge/DSA-Practice/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/akcodeforge/DSA-Practice/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/akcodeforge/DSA-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/akcodeforge/DSA-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/akcodeforge/DSA-Practice/tree/master/1710-maximum-units-on-a-truck) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akcodeforge/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/akcodeforge/DSA-Practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/akcodeforge/DSA-Practice/tree/master/1657-determine-if-two-strings-are-close) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/akcodeforge/DSA-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/akcodeforge/DSA-Practice/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/akcodeforge/DSA-Practice/tree/master/2094-finding-3-digit-even-numbers) |
@@ -655,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/akcodeforge/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -756,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
 |  |
