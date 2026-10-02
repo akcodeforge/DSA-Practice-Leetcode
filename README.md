@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0556-next-greater-element-iii](https://github.com/akcodeforge/DSA-Practice/tree/master/0556-next-greater-element-iii) |
 | [0649-dota2-senate](https://github.com/akcodeforge/DSA-Practice/tree/master/0649-dota2-senate) |
 | [0940-distinct-subsequences-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1092-shortest-common-supersequence](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1096-brace-expansion-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0746-min-cost-climbing-stairs](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/akcodeforge/DSA-Practice/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1092-shortest-common-supersequence](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -919,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1092-shortest-common-supersequence](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Bracket Sequences
 |  |
