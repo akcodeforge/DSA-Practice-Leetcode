@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/akcodeforge/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/akcodeforge/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0072-edit-distance) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0022-generate-parentheses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/akcodeforge/DSA-Practice/tree/master/0257-binary-tree-paths) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0062-unique-paths) |
@@ -921,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
