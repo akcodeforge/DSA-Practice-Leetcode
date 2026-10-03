@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akcodeforge/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/akcodeforge/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/akcodeforge/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0008-string-to-integer-atoi](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/akcodeforge/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/akcodeforge/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0072-edit-distance) |
@@ -709,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0062-unique-paths) |
@@ -928,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
