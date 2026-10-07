@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0165-compare-version-numbers](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/akcodeforge/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/akcodeforge/DSA-Practice/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0394-decode-string](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/akcodeforge/DSA-Practice/tree/master/0556-next-greater-element-iii) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0111-minimum-depth-of-binary-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/akcodeforge/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0095-unique-binary-search-trees-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/akcodeforge/DSA-Practice/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Hash Table
