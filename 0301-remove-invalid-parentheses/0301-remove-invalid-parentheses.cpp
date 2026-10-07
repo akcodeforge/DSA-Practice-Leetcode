@@ -3,7 +3,7 @@ public:
     unordered_set<string> st;
     void solve(string &s, int i, int lr, int rr,  int balance, string temp) {
         if (i == s.size()) {
-            if (lr == 0 && rr == 0 || balance == 0) {
+            if (lr == 0 && rr == 0 && balance == 0) {
                 st.insert(temp);
             }
             return;
