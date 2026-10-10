@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2213-longest-substring-of-one-repeating-character](https://github.com/akcodeforge/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/akcodeforge/DSA-Practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2352-equal-row-and-column-pairs](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/akcodeforge/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akcodeforge/DSA-Practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-last-stone-weight](https://github.com/akcodeforge/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akcodeforge/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2182-construct-string-with-repeat-limit](https://github.com/akcodeforge/DSA-Practice/tree/master/2182-construct-string-with-repeat-limit) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/akcodeforge/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Monotonic Queue
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2126-destroying-asteroids](https://github.com/akcodeforge/DSA-Practice/tree/master/2126-destroying-asteroids) |
 | [2182-construct-string-with-repeat-limit](https://github.com/akcodeforge/DSA-Practice/tree/master/2182-construct-string-with-repeat-limit) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/akcodeforge/DSA-Practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/akcodeforge/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/akcodeforge/DSA-Practice/tree/master/2600-k-items-with-the-maximum-sum) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2094-finding-3-digit-even-numbers](https://github.com/akcodeforge/DSA-Practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [2126-destroying-asteroids](https://github.com/akcodeforge/DSA-Practice/tree/master/2126-destroying-asteroids) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/akcodeforge/DSA-Practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/akcodeforge/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akcodeforge/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -812,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
 |  |
