@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akcodeforge/DSA-Practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/akcodeforge/DSA-Practice/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akcodeforge/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akcodeforge/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -718,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1291-sequential-digits](https://github.com/akcodeforge/DSA-Practice/tree/master/1291-sequential-digits) |
 | [2094-finding-3-digit-even-numbers](https://github.com/akcodeforge/DSA-Practice/tree/master/2094-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akcodeforge/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
