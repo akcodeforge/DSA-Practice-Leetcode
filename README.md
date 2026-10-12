@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2462-total-cost-to-hire-k-workers](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/akcodeforge/DSA-Practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akcodeforge/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akcodeforge/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/akcodeforge/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/akcodeforge/DSA-Practice/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akcodeforge/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akcodeforge/DSA-Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akcodeforge/DSA-Practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/akcodeforge/DSA-Practice/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akcodeforge/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akcodeforge/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akcodeforge/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -790,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/akcodeforge/DSA-Practice/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
