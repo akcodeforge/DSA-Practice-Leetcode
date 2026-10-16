@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2778-sum-of-squares-of-special-elements](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akcodeforge/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akcodeforge/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2744-find-maximum-number-of-string-pairs](https://github.com/akcodeforge/DSA-Practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akcodeforge/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akcodeforge/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akcodeforge/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/akcodeforge/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -984,4 +987,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
