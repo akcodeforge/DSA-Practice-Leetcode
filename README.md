@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/akcodeforge/DSA-Practice/tree/master/3909-compare-sums-of-bitonic-parts) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3870-count-commas-in-range](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3908-valid-digit-number](https://github.com/akcodeforge/DSA-Practice/tree/master/3908-valid-digit-number) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/akcodeforge/DSA-Practice/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Two Pointers
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3536-maximum-product-of-two-digits](https://github.com/akcodeforge/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Tree
 |  |
 | ------- |
@@ -749,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3483-unique-3-digit-even-numbers](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/akcodeforge/DSA-Practice-Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Doubly-Linked List
 |  |
