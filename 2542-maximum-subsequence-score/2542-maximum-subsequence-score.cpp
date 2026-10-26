@@ -1,8 +1,7 @@
 
 class Solution {
 public:
-    long long maxScore(vector<int>& nums1,
-                       vector<int>& nums2, int k) {
+    long long maxScore(vector<int>& nums1, vector<int>& nums2, int k) {
         int n = nums1.size();
         vector<pair<int, int>> arr;
         for (int i = 0; i < n; i++) {
@@ -27,4 +26,3 @@ public:
         return ans;
     }
 };
- 
